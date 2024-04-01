@@ -6,3 +6,4 @@ package-lock.json
 coverage
 auth-api/config/database/test.json
 forum-api-webserver.pem
+env.txt
